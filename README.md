@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iakkiya Shenbagam
+- 👋 Hi, I’m @Ilakkiya Shenbagam
 - 👀 I’m interested in IT field
 - 🌱 I’m currently learning Computer science and engineering
 
