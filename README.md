@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yoanshree //Ilakkiya Shenbagam 
-- 👀 I’m interested in Networks and software developer 
+- 👀 I’m interested in Networks and XR developer 
 - 🌱 I’m currently learning BE
 
 
